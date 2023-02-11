@@ -6,12 +6,12 @@ font-family: 'Inter', sans-serif;
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&family=Inter:wght@400;500;700&display=swap');
 
 /*
-Basic Css
+Basic CSS
 */
 body{
+    background-color: #c1fffd;
     font-family: 'Inter', sans-serif;
     font-weight: 400;
     font-size: 18px;
-    background-color: #00ff0d3d;
     color: #ffffff;
 }
